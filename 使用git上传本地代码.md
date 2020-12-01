@@ -20,6 +20,9 @@ git remote add url 添加一个远程仓库
 git push - u使用  
 git push -u origin master将本地的分支推送到origin主机 同时指定origin为默认主机 以后就可以不加任何参数使用git push  
 
+# 下载仓库 
+git clone https://github.com/wjianchen13/EnjoyClass04.git  
+
 
 
 
